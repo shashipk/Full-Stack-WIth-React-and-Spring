@@ -87,6 +87,29 @@ RestTemplate & Microservices
 
 https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
 
+================================================
+
+# Links for Git, GitHub & Heroku:
+
+https://guides.github.com/activities/hello-world/
+
+https://youtu.be/QTOkqzCTGxw
+
+https://youtu.be/xuB1Id2Wxak
+
+https://www.kindsonthegenius.com/devops-ci-cd-pipeline-step-by-step-tutorial-springboot-github-heroku/
+
+https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku
+
+
+
+# Spring Actuator:
+
+https://youtu.be/ojc_Jy_0EgI
+
+https://www.callicoder.com/spring-boot-actuator/
+
+
 ============================= Useful YouTube Playlists:
 
 https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
