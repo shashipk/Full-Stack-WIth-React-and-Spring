@@ -1,0 +1,23 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.nav-bar{
+    width: 100vw;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    background-color: #c60466;
+    align-items: center;
+}
+
+.nav-item{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.3em;
+    margin-right: 10px;
+    margin-left: 10px;
+}
