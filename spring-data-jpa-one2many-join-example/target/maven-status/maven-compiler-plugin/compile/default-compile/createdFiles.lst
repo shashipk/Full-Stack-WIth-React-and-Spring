@@ -1,0 +1,8 @@
+com\javatechie\jpa\entity\Customer.class
+com\javatechie\jpa\dto\OrderRequest.class
+com\javatechie\jpa\repository\ProductRepository.class
+com\javatechie\jpa\dto\OrderResponse.class
+com\javatechie\jpa\controller\OrderController.class
+com\javatechie\jpa\entity\Product.class
+com\javatechie\jpa\SpringDataJpaMappingApplication.class
+com\javatechie\jpa\repository\CustomerRepository.class
